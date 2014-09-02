@@ -1,0 +1,20 @@
+ros-indigo-neo-relayboard (0.1.2-0saucy) saucy; urgency=high
+
+  * fixed .temperature to .data for std_msgs::Int16
+  * pr2_msgs and neo_relayboard messages removed or moved to new package neo_msgs
+  * pr2 dep removed
+  * removed pr2_msgs from CMakeFiles
+  * pr2_msgs removed from build and run dependecies
+  * Contributors: Osiron007
+
+ -- Neobotix <nieland@neobotix.de>  Mon, 01 Sep 2014 22:00:00 -0000
+
+ros-indigo-neo-relayboard (0.1.1-0saucy) saucy; urgency=high
+
+  * package.xml files version, license and maintainer checked
+  * new version using catkin and replacing old version
+  * Contributors: Osiron007
+
+ -- Neobotix <nieland@neobotix.de>  Sun, 31 Aug 2014 22:00:00 -0000
+
+
