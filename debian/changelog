@@ -1,0 +1,22 @@
+ros-indigo-neo-base-mp-500 (0.1.2-0saucy) saucy; urgency=high
+
+
+
+ -- Neobotix <nieland@neobotix.de>  Mon, 01 Sep 2014 22:00:00 -0000
+
+ros-indigo-neo-base-mp-500 (0.1.1-0saucy) saucy; urgency=high
+
+  * package.xml files version, license and maintainer checked
+  * new version using catkin and replacing old version
+  * changed topics of mp_500 mpo_500 to mpo_700
+  * neo_driver: updated sick_s300 config files
+  * merging with cob_driver: moved can and relayboard to cob_driver
+  * changed relayboards battery msg to pr2s powerstate
+  * platformctrl: standardized cmd msgs
+  * fused serrial packages in neo_serrelayboard
+  * seperating src and config packages
+  * Contributors: Osiron007, Timo Hackel, pcb
+
+ -- Neobotix <nieland@neobotix.de>  Sun, 31 Aug 2014 22:00:00 -0000
+
+
