@@ -1,0 +1,19 @@
+ros-indigo-neo-platformctrl-mecanum (0.1.2-1trusty) trusty; urgency=high
+
+
+
+ -- Neobotix <nieland@neobotix.de>  Mon, 01 Sep 2014 22:00:00 -0000
+
+ros-indigo-neo-platformctrl-mecanum (0.1.1-1trusty) trusty; urgency=high
+
+  * package.xml files version, license and maintainer checked
+  * new version using catkin and replacing old version
+  * seperating src and config packages
+  * tidy up
+  * added watchdog nodes for undervoltage / temperature / error stop
+  * initial commit
+  * Contributors: Osiron007, Timo Hackel
+
+ -- Neobotix <nieland@neobotix.de>  Sun, 31 Aug 2014 22:00:00 -0000
+
+
