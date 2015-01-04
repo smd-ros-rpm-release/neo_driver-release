@@ -11,12 +11,16 @@ Source0:        %{name}-%{version}.tar.gz
 Requires:       ros-indigo-neo-msgs
 Requires:       ros-indigo-roscpp
 Requires:       ros-indigo-rospy
+Requires:       ros-indigo-sensor-msgs
 Requires:       ros-indigo-std-msgs
+Requires:       ros-indigo-trajectory-msgs
 BuildRequires:  ros-indigo-catkin
 BuildRequires:  ros-indigo-neo-msgs
 BuildRequires:  ros-indigo-roscpp
 BuildRequires:  ros-indigo-rospy
+BuildRequires:  ros-indigo-sensor-msgs
 BuildRequires:  ros-indigo-std-msgs
+BuildRequires:  ros-indigo-trajectory-msgs
 
 %description
 Communication Node with neo_relayboard
